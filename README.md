@@ -1,2 +1,26 @@
-# SAR-D9
-Simplified and Advanced RISC CPU D9, high performance. 
+SAR-D9
+=====================
+（Simplified and Advanced RISC CPU： D9）
+
+# 介绍
+“飒”是由北京芯启科技有限公司（SiSCTECHnology CO.,LTD）所开发IP的总体代号，基于“飒”为核心模块，我们还提供芯片SoC架构“靖”系列，并进一步为您打造端侧的PCBA方案。
+其中D9是一款高性能RISC CPU IP，我们支持在其基础架构上进行灵活多样的扩展开发。例如，基于D9 CPU与多个SAR-TNA200 IP的紧耦合设计，我们将为您打造出性能价格比十分理想的深度卷积神经网络AI加速芯片方案。
+在此我们将D9基础型号的c model开放上来，便于所有人下载、评估。该D9基础型号的特征为：
++ 兼容RISC-V指令集
++ 32位
++ 9级流水线
++ 2.8 DMIPS/MHz
+
+
+# 运行说明
+
+
+环境：
+-----------
+
+设置：
+-----------
+
+步骤：
+-----------
+
