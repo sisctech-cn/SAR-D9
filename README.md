@@ -52,9 +52,12 @@ c model操作流程，便于上手运行。
 步骤：
 -----------
 您可直接下载sisc_d9_cmodel_20190412.tgz
+
     $ tar -xzf sisc_d9_cmodel_20190412.tgz
     $ cd sisc_d9_cmodel_20190412/cmodel
+    
 您需要编辑run脚本，设置GNU、verilator和SystemC的本地路径后直接执行
+
     $ run
 
 
