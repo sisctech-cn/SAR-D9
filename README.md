@@ -31,6 +31,7 @@ c model操作流程，便于上手运行。
     |   |   ├── run             # run script
     |   |   ├── testsc.cpp      # main program that calls the C model
     |   |   ├── top.hex64       # machine code of Dhrystone demo
+    |   |   ├── SISC_D9-run_manual.docx
     ├── README.md                                 
     ├── LICENSE                                   
 
@@ -60,5 +61,6 @@ c model操作流程，便于上手运行。
 
     $ run
 
+结果请参考release/SISC_D9-run_manual.docx文档末尾的屏幕输出示意图。testcase会自动计算当前CPU和微架构环境下的性能测算结果。
 
 微信公众号：北京芯启科技
