@@ -32,7 +32,7 @@ c model操作流程，便于上手运行。
     |   |   ├── run             # run script
     |   |   ├── testsc.cpp      # main program that calls the C model
     |   |   ├── top.hex64       # machine code of Dhrystone demo
-    |   |   ├── SISC_D9-run_manual.docx
+    |   ├── SISC_D9-run_manual.docx
     ├── README.md                                 
     ├── LICENSE                                   
 
